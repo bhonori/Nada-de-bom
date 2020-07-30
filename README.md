@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Nada de bom
 
-You can use the [editor on GitHub](https://github.com/bhonori/page_nadadebom/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Pagina feita pq tenho que passar em uma cadeira. Como isso é obriatorio vamos tentar deixar interessante!!!
 
 ### Markdown
 
